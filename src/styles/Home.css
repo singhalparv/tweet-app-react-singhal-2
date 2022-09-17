@@ -1,0 +1,22 @@
+.homeContainer {
+    padding-top: 150px;
+}
+
+.bird {
+    align-items: center;
+}
+
+.tweet {
+    color: #321fe291;
+
+}
+
+.app {
+    color: grey;
+}
+
+.ownerInfo{
+    color:rgb(207, 87, 211);
+    font-size: small;
+    margin-top: 20%;
+}
